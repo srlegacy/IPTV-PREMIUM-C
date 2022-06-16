@@ -118,11 +118,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-
+###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+#
 
 
 
@@ -2758,8 +2758,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://tv.kpsvpn.com/ria.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://Astro.kpsboyserver.com/AstroRia.mpd
 #https://link.zozotv.xyz/shukrisinar/shukrisinar/340
 #http://w.nasvpn.xyz:8080/live/suke/suke/13343.m3u8
 #https://tinyurl.com/47ef5b4z
@@ -2809,7 +2810,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 #EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",105 Astrox Prima ALT
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71020
 #http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71020
-http://axcestv.vip:8080/freeview2/axcestv2/452
+#http://axcestv.vip:8080/freeview2/axcestv2/452
 
 
 
@@ -2821,15 +2822,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106 Astrox Oasis ALT
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1701
 #http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/1701
-http://axcestv.vip:8080/freeview2/axcestv2/449
+#http://axcestv.vip:8080/freeview2/axcestv2/449
 
 
 
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://tv.kpsvpn.com/warna.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://Astro.kpsboyserver.com/AstroWarna.mpd
 #https://link.zozotv.xyz/shukrisinar/shukrisinar/35
 #http://w.nasvpn.xyz:8080/live/suke/suke/13344.m3u8 
 #https://tinyurl.com/2s3cksd7
@@ -2884,7 +2886,8 @@ http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-https://tv.kpsvpn.com/citra.mpd
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://Astro.kpsboyserver.com/AstroCitra.mpd
 #https://link.zozotv.xyz/shukrisinar/shukrisinar/37
 #http://w.nasvpn.xyz:8080/live/suke/suke/13345.m3u8
 #https://tinyurl.com/bddmddvj
@@ -2951,8 +2954,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71080
 #http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71080
-http://axcestv.vip:8080/freeview2/axcestv2/450
-http://axcestv.vip:8080/freeview/axcestv/451
+#http://axcestv.vip:8080/freeview2/axcestv2/450
+#http://axcestv.vip:8080/freeview/axcestv/451
 
 
 
@@ -2964,7 +2967,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 #EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astrox Rania ALT
 #http://urtv.cc:80/454781209544/431009674535/6729
 #http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71144.ts
-http://axcestv.vip:8080/freeview2/axcestv2/461
+#http://axcestv.vip:8080/freeview2/axcestv2/461
 
 
 
@@ -2977,7 +2980,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astrox Aura ALT
 #http://urtv.cc:80/454781209544/431009674535/6713
 #http://mvu03.wanicelife.com:8880/SWFAF1221222/QFA8ENNR/71145.ts
-http://axcestv.vip:8080/freeview2/axcestv2/460
+#http://axcestv.vip:8080/freeview2/axcestv2/460
 
 
 
@@ -3044,7 +3047,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #EXTINF:-1 tvg-id="801" tvg-name="Astro Arena HD" group-title="SPORT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astrox Arena ALT
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287313
-http://axcestv.vip:8080/freeview2/axcestv2/592
+#http://axcestv.vip:8080/freeview2/axcestv2/592
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3054,7 +3057,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="802" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Astrox Arena 2 Backup
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287312
-http://axcestv.vip:8080/freeview2/axcestv2/593
+#http://axcestv.vip:8080/freeview2/axcestv2/593
 
 
 
@@ -3080,24 +3083,23 @@ http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59220
 http://axcestv.vip:8080/freeview2/axcestv2/594
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287306
 #https://link.zozotv.xyz:443/dayah/dayah/155
-
-#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 4
-http://axcestv.vip:8080/freeview2/axcestv2/595
+#http://axcestv.vip:8080/freeview2/axcestv2/595
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/1722
 #https://link.zozotv.xyz:443/1234/1234/155
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1722
-
-#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 5
-http://axcestv.vip:8080/live/freeview/axcestv/788.ts
-
-#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 6
-http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59220
+#http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59220
 #http://syok.tv:2082/fred/fred/124
+#http://axcestv.vip:8080/live/freeview/axcestv/788.ts
 
-#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 7
+#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-https://tv.kpsvpn.com/sport1.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+https://Astro.kpsboyserver.com/AstroSP1.mpd
+
+
+
+
+
 
 
 
@@ -3129,22 +3131,22 @@ http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59219
 http://axcestv.vip:8080/freeview2/axcestv2/596
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287305
 #https://link.zozotv.xyz:443/dayah/dayah/156
-
-#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 4
-http://axcestv.vip:8080/freeview/axcestv/597
+#http://axcestv.vip:8080/freeview/axcestv/597
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/1721
 #https://link.zozotv.xyz:443/1234/1234/156
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1721
-
-
-#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 5
 http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59219
 #http://syok.tv:2082/fred/fred/125
 
-#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 6
+#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-https://tv.kpsvpn.com/sport2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+https://Astro.kpsboyserver.com/AstroSP2.mpd
+
+
+
+
+
 
 
 
@@ -3173,21 +3175,21 @@ http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59218
 #https://link.zozotv.xyz:443/Aina_90/abc1234/570
 #https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759562.ts
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287304
-
-#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 4
-http://axcestv.vip:8080/freeview/axcestv/599
+#http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59218
+#http://syok.tv:2082/fred/fred/126
+#http://axcestv.vip:8080/freeview/axcestv/599
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/1720
 #https://link.zozotv.xyz:443/1234/1234/157
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1720
 
-#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 5
-http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59218
-#http://syok.tv:2082/fred/fred/126
-
-#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 6
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-https://tv.kpsvpn.com/sport3.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+https://Astro.kpsboyserver.com/AstroSP3.mpd
+
+
+
+
 
 
 
@@ -3215,25 +3217,25 @@ http://axcestv.vip:8080/freeview2/axcestv2/600
 http://axcestv.vip:8080/freeview/axcestv/601
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287303
 #https://link.zozotv.xyz:443/dayah/dayah/158
-
-#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 4
-http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59217
+#http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59217
+#http://syok.tv:2082/fred/fred/127
+#https://link.zozotv.xyz:443/Aina_90/abc1234/158
+#http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13535
+#http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59217
 #https://link.zozotv.xyz:443/Aina_90/abc1234/571
 #https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759563.ts
 #http://wanicelife.com:8880/EFLW122114/70NF2GH1/1719
 #https://link.zozotv.xyz:443/1234/1235/158
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1719
 
-#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 5
-http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59217
-#http://syok.tv:2082/fred/fred/127
-#https://link.zozotv.xyz:443/Aina_90/abc1234/158
-#http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13535
-
-#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 6
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-https://tv.kpsvpn.com/sport4.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+https://Astro.kpsboyserver.com/AstroSP4.mpd
+
+
+
+
 
 
 
@@ -4638,57 +4640,6 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
 
-
-
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_763997.png",[SPORT] BT SPORT 1 
-https://www.olacast.live/cdn/premium31/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_764001.png",[SPORT] BT SPORT 2 
-https://www.olacast.live/cdn/premium32/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_768612.png",[SPORT] BT SPORT 3 
-https://www.olacast.live/cdn/premium33/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",[SPORT] BT SPORT / ESPN 
-https://www.olacast.live/cdn/premium34/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/ab56314c85f36746bf0ac.png",[SPORT] Sky Sports Football 
-https://www.olacast.live/cdn/premium35/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/75acedb6908cd6941abe9.png",[SPORT] Sky Sports F1 
-https://www.olacast.live/cdn/premium60/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/99e9cc98102d828fefbcd.png",[SPORT] Sky Sports Golf 
-https://www.olacast.live/cdn/premium70/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/cdbe3160e388eb03cc286.png",[SPORT] Sky Sports Cricket 
-https://www.olacast.live/cdn/premium65/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/4615c696d6962e0f8bd93.png",[SPORT] Sky Sports Action 
-https://www.olacast.live/cdn/premium37/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/ab9a197735be0c94e9238.png",[SPORT] Sky Sports Arena
-https://www.olacast.live/cdn/premium36/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://3.bp.blogspot.com/-U0A70ScXTgU/WPVCfQiyXpI/AAAAAAAAFPY/0y0UKPaobxs2ayo-K4sKjWosWmynuI9WQCLcB/s200/arena_sport_rs_1.png",[SPORT] Arena Sport 1
-https://www.olacast.live/cdn/premium134/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mtel.at/storage/assets/arena-2-premium_266x2001.png",[SPORT] Arena Sport 2 
-https://www.olacast.live/cdn/premium135/chunks.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.plyvdo.live/sd2embed?v=espnsd
 #EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",[SPORT] ESPN (SD) 
 https://hg-n2.sootice.com/plyvivo/badedokogas07uyaw06u/chunklist.m3u8
@@ -4697,53 +4648,10 @@ https://hg-n2.sootice.com/plyvivo/badedokogas07uyaw06u/chunklist.m3u8
 #EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",[SPORT] ESPN (HD) 
 https://hg-n2.sootice.com/plyvivo/kiwu6a9uvi5ujubuxi7o/chunklist.m3u8
 
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nz-espn-2-466.png",[SPORT] ESPN 2 
-https://www.olacast.live/cdn/premium45/chunks.m3u8
 
 #EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/300x300.png?type=color_onBlack",[SPORT] beIN Sports Xtra 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png",[SPORT] beIN Sports 1 English 
-https://www.olacast.live/cdn/premium61/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png",[SPORT] beIN Sports 2 English 
-https://www.olacast.live/cdn/premium90/chunks.m3u8
-
-#EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-3-1168.png",[SPORT] beIN Sports 3 English 
-https://www.olacast.live/cdn/premium46/chunks.m3u8
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=853d2b5a2d5d1a16226de1b4f16f24fa&key=3464cfe200051c9b443aa1e9c7cc9b59
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_new_100X56.png",[SPORT] beIN Sports 
-https://apac-live-ovt.akamaized.net/bein/sg_my_bein_sports_01/sg_my_bein_sports_01.isml/playlist.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9b364399ebb9a118f63b048fae023341&key=7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png",[SPORT] beIN Sports 1
-https://apac-live-ovt.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40dbb569b90b5c7798f63ed6d7577ccb&key=4ea09395289d3c2e633f24f07c180169
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png",[SPORT] beIN Sports 2
-https://apac-live-ovt.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73003b3098659dbcefa15ea5af77a500&key=14f86ff7c748360346c6db330c5a7e79
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_100X56.png",[SPORT] beIN Sports 3 
-https://apac-live-ovt.akamaized.net/bein/my_bein_sports_03/my_bein_sports_03.isml/playlist.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e34d3f56de8ed573841bad6612e24e9c&key=5f48f3237792d40daba95d52d17db03a
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/mutv-logo-100x56_100X56.png",[SPORT] MUTV 
-https://apac-live-ovt.akamaized.net/bein/mutv_bein_sports/mutv_bein_sports.isml/playlist.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=672a1f46b66c6bdd26b1680d39baa922&key=16169547eb9b0a14146cdbd21490279e
