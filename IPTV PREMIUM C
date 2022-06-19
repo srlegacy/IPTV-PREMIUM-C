@@ -117,10 +117,34 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-#
+
+
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3474,10 +3498,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 
 #EXTINF:-1 tvg-id="404" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="https://iili.io/1NC1Cx.png",404 BOO ALT
-http://axcestv.vip:8080/freeview/axcestv/462
+#http://axcestv.vip:8080/freeview/axcestv/462
+#http://axcestv.vip:8080/freeview2/axcestv2/462
 
-#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="https://iili.io/1NC1Cx.png",404 BOO ALT 2
-http://axcestv.vip:8080/freeview2/axcestv2/462
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3545,6 +3568,7 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/250?cb=20200114193517" group-title="MOVIES",  MNX HD
 http://live.flixhub.net/hls/mnx-hd.m3u8
+
 
 
 
