@@ -117,10 +117,15 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-###
+
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
+
+
+
+
+
 
 
 
@@ -2925,7 +2930,8 @@ https://Astro.kpsboyserver.com/AstroRia.mpd
 #https://bit.ly/3NIt38k
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT
-http://iptv12k.com:35461/live/8032022060101/452381/4353.ts
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053174
+#http://iptv12k.com:35461/live/8032022060101/452381/4353.ts
 #http://axcestv.vip:8080/freeview/axcestv/453
 #https://link.zozotv.xyz/shukrisinar/shukrisinar/11
 
@@ -2997,7 +3003,8 @@ https://Astro.kpsboyserver.com/AstroWarna.mpd
 #https://bit.ly/3J1lMNl
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT
-http://iptv12k.com:35461/8032022060101/452381/5075
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053177
+#http://iptv12k.com:35461/8032022060101/452381/5075
 #http://axcestv.vip:8080/freeview/axcestv/455
 #https://link.zozotv.xyz/shukrisinar/shukrisinar/272
 
@@ -3052,7 +3059,8 @@ https://Astro.kpsboyserver.com/AstroCitra.mpd
 #https://bit.ly/3u2e5SW
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT
-http://iptv12k.com:35461/live/8032022060101/452381/721.ts
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053178
+#http://iptv12k.com:35461/live/8032022060101/452381/721.ts
 #http://axcestv.vip:8080/freeview/axcestv/458
 #https://link.zozotv.xyz/shukrisinar/shukrisinar/36
 
@@ -3254,8 +3262,8 @@ https://Astro.kpsboyserver.com/AstroSP1.mpd
 #http://syok.tv:2082/fred/fred/124
 #http://axcestv.vip:8080/live/freeview/axcestv/788.ts
 
-
-
+#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 4
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053210
 
 
 
@@ -3298,7 +3306,8 @@ https://Astro.kpsboyserver.com/AstroSP2.mpd
 http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59219
 #http://syok.tv:2082/fred/fred/125
 
-
+#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 4
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053211
 
 
 
@@ -3343,7 +3352,8 @@ https://Astro.kpsboyserver.com/AstroSP3.mpd
 #https://link.zozotv.xyz:443/1234/1234/157
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1720
 
-
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 4
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053212
 
 
 
@@ -3387,7 +3397,8 @@ https://Astro.kpsboyserver.com/AstroSP4.mpd
 #https://link.zozotv.xyz:443/1234/1235/158
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1719
 
-
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 4
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053213
 
 
 
