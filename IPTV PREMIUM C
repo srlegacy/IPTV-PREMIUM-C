@@ -117,11 +117,10 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-#
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-###
+
 
 
 
@@ -4916,15 +4915,6 @@ https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-
-
-#EXTVLCOPT:http-referrer=https://www.plyvdo.live/sd2embed?v=espnsd
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",[SPORT] ESPN (SD) 
-https://hg-n2.sootice.com/plyvivo/badedokogas07uyaw06u/chunklist.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.plyvdo.live/sd2embed?v=espnhd~espnsd
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",[SPORT] ESPN (HD) 
-https://hg-n2.sootice.com/plyvivo/kiwu6a9uvi5ujubuxi7o/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/300x300.png?type=color_onBlack",[SPORT] beIN Sports Xtra 
