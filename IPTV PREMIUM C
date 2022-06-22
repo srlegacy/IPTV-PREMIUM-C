@@ -117,10 +117,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+#
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+###
 
 
 
@@ -3300,10 +3301,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 
-#EXTVLCOPT:http-user-agent=punya=SeulangaTV
-https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 #https://uload.ru.com/cdn/premium123/chunks.m3u8
 #https://link.zozotv.xyz:443/shukrisinar/shukrisinar/155
 #https://my.odtv.uk:443/live/9486331171/7860879594/126.ts
@@ -3322,9 +3325,7 @@ https://lnk.ec/shareext@assp1
 #http://elemento.x10.mx/stream/assp1.mpd
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053210
 #https://Astro.kpsboyserver.com/AstroSP1.mpd
 #http://axcestv.vip:8080/freeview2/axcestv2/594
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287306
@@ -3337,8 +3338,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 #http://syok.tv:2082/fred/fred/124
 #http://axcestv.vip:8080/live/freeview/axcestv/788.ts
 
-#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 4
-https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053210
 
 
 
@@ -3347,10 +3346,12 @@ https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053210
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 
-#EXTVLCOPT:http-user-agent=punya=SeulangaTV
-https://www.seulangatv.xyz/ns/sports/assp2.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 #https://uload.ru.com/cdn/premium124/chunks.m3u8
 #https://link.zozotv.xyz:443/shukrisinar/shukrisinar/156
 
@@ -3368,9 +3369,7 @@ https://lnk.ec/shareext@assp2
 #https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759561.ts
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053211
 #https://Astro.kpsboyserver.com/AstroSP2.mpd
 #http://axcestv.vip:8080/freeview2/axcestv2/596
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287305
@@ -3382,8 +3381,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default.mpd
 http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59219
 #http://syok.tv:2082/fred/fred/125
 
-#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 4
-https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053211
 
 
 
@@ -3394,10 +3391,12 @@ https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053211
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 
-#EXTVLCOPT:http-user-agent=punya=SeulangaTV
-https://www.seulangatv.xyz/ns/sports/assp3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
 #https://uload.ru.com/cdn/premium125/chunks.m3u8
 #https://link.zozotv.xyz:443/shukrisinar/shukrisinar/157
 
@@ -3413,9 +3412,7 @@ https://lnk.ec/shareext@assp3
 #http://axcestv.vip:8080/freeview2/axcestv2/598
 
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053212
 #https://Astro.kpsboyserver.com/AstroSP3.mpd
 #http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59218
 #https://link.zozotv.xyz:443/Aina_90/abc1234/157
@@ -3430,8 +3427,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
 #https://link.zozotv.xyz:443/1234/1234/157
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1720
 
-#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 4
-https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053212
 
 
 
@@ -3441,10 +3436,12 @@ https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053212
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 
-#EXTVLCOPT:http-user-agent=punya=SeulangaTV
-https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #https://uload.ru.com/cdn/premium126/chunks.m3u8
 #https://link.zozotv.xyz:443/shukrisinar/shukrisinar/158
 
@@ -3459,9 +3456,7 @@ https://lnk.ec/shareext@assp4
 #http://axcestv.vip:8080/freeview2/axcestv2/600
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053213
 #https://Astro.kpsboyserver.com/AstroSP4.mpd
 #http://axcestv.vip:8080/freeview/axcestv/601
 #http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287303
@@ -3477,8 +3472,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 #https://link.zozotv.xyz:443/1234/1235/158
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/1719
 
-#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 4
-https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053213
+
 
 
 
