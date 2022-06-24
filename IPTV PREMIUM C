@@ -3806,11 +3806,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f609722db16e34f7f808179d29ba1b10&key=f8b715f81b33aeb2e5680263fe31d904
-#EXTINF:-1 tvg-id="616" tvg-name="Nickelodeon HD" group-title="KIDS" tvg-logo="https://iili.io/1No7Wb.png",616 Nickelodeon 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dac64e0ed7eec1cde6777b7616917710&key=6fcec68baae0c9822b8ec3f29f7cd0bc
 #EXTINF:-1 tvg-id="619" tvg-name="Boomerang HD" group-title="KIDS" tvg-logo="https://iili.io/1Nol0Q.png",619 Boomerang
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default.mpd
@@ -3840,8 +3835,6 @@ https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="KIDS",Baby TV
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w702505816.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="KIDS",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 
 
