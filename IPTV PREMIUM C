@@ -3078,7 +3078,8 @@ https://stream.zeehanzgadget.com/oasis.mpd
 #EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",106 Astrox Oasis ALT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2505
-# http://linearjitp-playback.astro.com
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+https://links.aqfadtv.xyz/oasis.mpd
 
 
 
