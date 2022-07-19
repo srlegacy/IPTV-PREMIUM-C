@@ -116,9 +116,35 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
+
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3001,6 +3027,10 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv
+
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV ALT
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
 
 
 
