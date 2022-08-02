@@ -116,11 +116,12 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
+#####################
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
-
+############
+####
 
 
 
@@ -3013,8 +3014,16 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 ALT
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053153
+
+
+
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 ALT
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053154
 
 
 
@@ -3036,6 +3045,7 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
 
 
 
@@ -3128,7 +3138,8 @@ http://iptv12k.com:35461/live/80301062102/732099/735.ts
 #https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
 #https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
 
-
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 4
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 
 
 
@@ -3187,10 +3198,15 @@ http://iptv12k.com:35461/live/80301062102/732099/4313.ts
 #https://bit.ly/3Dy8sPk
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 4
-http://iptv12k.com:35461/80301062102/732099/5075
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/157492
+#http://iptv12k.com:35461/80301062102/732099/5075
 #http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1706
 #http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
 #http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706
+
+
+
 
 
 
@@ -3212,7 +3228,8 @@ http://iptv12k.com:35461/live/80301062102/732099/721.ts
 #http://iptv12k.com:35461/live/8032022060101/452381/721.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 2
-http://iptv12k.com:35461/live/80301062102/732099/6608.ts
+https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+#http://iptv12k.com:35461/live/80301062102/732099/6608.ts
 #http://iptv12k.com:35461/80201033004/324542/6608
 #https://m3u-editor.com/serve/41b61570-b8b9-11ec-8cd3-b5fd8135ffd2/542782413
 #https://bit.ly/3uVE7GN
